@@ -4,7 +4,7 @@
 #
 #Python 3 version of the mIRC script bot TIMTOM; original script written by gamme:
 #TIMTOM-2.0 is a work in progress and currently supports: join, states, and greetings.
-#Updates will be performed daily or until TIMTOM-2.0 is fully functional or I die a horrible lonely death.
+#Updates will be performed daily until TIMTOM-2.0 is fully functional or I die a horrible lonely death.
 
 
 import sys
